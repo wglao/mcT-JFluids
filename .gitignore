@@ -17,3 +17,8 @@ jaxfluids*.rst
 .vscode
 *.tar
 *wandb*
+*.slurm
+*.o*
+*.e*
+requirements.txt
+*.tar.gz
