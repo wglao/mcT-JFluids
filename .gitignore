@@ -15,3 +15,5 @@ jaxfluids*.rst
 .DS_Store
 .ipynb_checkpoints
 .vscode
+*.tar
+*wandb*
