@@ -22,3 +22,5 @@ jaxfluids*.rst
 *.e*
 requirements.txt
 *.tar.gz
+Network
+figs
